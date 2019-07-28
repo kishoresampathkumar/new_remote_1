@@ -1,5 +1,6 @@
 First line is a newer content.
 Second line added while in staging area.
+Adding new branch details
 Steps 1 through 5 have to be done as root user:
 
 On CentOS 7.x:
