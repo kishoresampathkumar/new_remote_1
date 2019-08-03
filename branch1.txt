@@ -1,3 +1,4 @@
+New line 0
 New line 1 from kishore.sampathkumar
 I want to add a new branch
 Newer entry for remote
