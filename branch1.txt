@@ -5,3 +5,4 @@ Another entry made by user edureka_instructor_1
 new entry from user: kishore.sampathkumar@gmail.com after
 edureka_instructor_1's entry.
 New line 6 from edureka_instructor_1
+Conflicting line from user: edureka
